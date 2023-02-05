@@ -1,0 +1,10 @@
+/home/josh_rnd/Documents/3A/csc5004/dataDistribDissem/kvstore/src/main/java/org/example/kvstore/distribution/Strategy.java
+/home/josh_rnd/Documents/3A/csc5004/dataDistribDissem/kvstore/src/main/java/org/example/kvstore/StoreManager.java
+/home/josh_rnd/Documents/3A/csc5004/dataDistribDissem/kvstore/src/main/java/org/example/kvstore/cmd/Put.java
+/home/josh_rnd/Documents/3A/csc5004/dataDistribDissem/kvstore/src/main/java/org/example/kvstore/StoreImpl.java
+/home/josh_rnd/Documents/3A/csc5004/dataDistribDissem/kvstore/src/main/java/org/example/kvstore/Store.java
+/home/josh_rnd/Documents/3A/csc5004/dataDistribDissem/kvstore/src/main/java/org/example/kvstore/cmd/CommandFactory.java
+/home/josh_rnd/Documents/3A/csc5004/dataDistribDissem/kvstore/src/main/java/org/example/kvstore/cmd/Get.java
+/home/josh_rnd/Documents/3A/csc5004/dataDistribDissem/kvstore/src/main/java/org/example/kvstore/cmd/Reply.java
+/home/josh_rnd/Documents/3A/csc5004/dataDistribDissem/kvstore/src/main/java/org/example/kvstore/cmd/Command.java
+/home/josh_rnd/Documents/3A/csc5004/dataDistribDissem/kvstore/src/main/java/org/example/kvstore/distribution/ConsistentHash.java
